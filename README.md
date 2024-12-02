@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 싸피 12기 교육생으로 Python을 배우고 있습니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 새로운 것을 시도하고 배우는 것을 좋아합니다.</li><li> 최종적으로 인공지능의 딥러닝 엔지니어로 성장하고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 새로운 것을 시도하고 배우는 것을 좋아합니다.</li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
